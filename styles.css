@@ -76,4 +76,23 @@
 {
     padding-top: 20px;
 }
-
+.skills-bar p{
+    margin-bottom:6px ;
+    font-weight:600 ;
+}
+.progress-bar{
+    border-radius: 16px;
+}
+.progress{
+    border-radius: 16px !important;
+    margin-bottom: 20px;
+}
+/* services */
+#services{
+    background-image:linear-gradient(rgba(0,0,0,0.8)),rgba(0,0,0,0.8),url("https://cdn.pixabay.com/photo/2017/09/06/16/13/hand-2722107__340.jpg") ;
+    background-size: cover;
+    background-position:center ;
+    background-attachment: fixed ;
+    padding-top:50px ;
+    padding-bottom:50px ;
+}
